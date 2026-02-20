@@ -1,0 +1,8 @@
+torch>=2.1.0
+numpy
+matplotlib
+transformers>=4.41.0
+datasets
+accelerate
+peft
+bitsandbytes
